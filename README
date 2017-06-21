@@ -5,4 +5,5 @@ nltk_stem_lemmatization
 nltk_POS
 nltk_named_entity_recognition
 latent_semantic_analysis
+article spinner
 
